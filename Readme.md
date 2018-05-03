@@ -12,13 +12,13 @@ Use arduino to write the CircuitPlaygroundFirmataWebUSB.ino firmware, then:
 ## Create a Johnny-Five Node:
 Use Circuit Playground and connection type WebUSB serialOpen
 
-![nodebot](nodebot.jpg)
+![nodebot](nodebot.png)
 
 click the Authorize USB button
 
 ##  Put some code in the Johhn-five node:
 
-![screenshot](screenshot.jpg)
+![screenshot](chirpers.png)
 
 ```javascript
 const Playground = ioConstructor;
